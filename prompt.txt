@@ -210,10 +210,11 @@ void display(STACK *s)
 	printf("\n");
 }
 
-========================================================
-11. SUBMISSION NAMING (only when I ask for a zip)
-========================================================
-- DS assignments: 42_assignmentN_rithiksharon (zip and folder name),
-  only .c files inside, question as /* */ at the top of each .c file.
+
 
 Before you answer, check your code against every rule above.
+
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+YOUR QUESTION HERE
+____________________________________________________________________________________
